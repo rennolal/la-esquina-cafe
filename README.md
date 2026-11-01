@@ -2,7 +2,7 @@
 
 Landing mobile-first construida con React 19, TypeScript y Vinext (Vite), con API de contacto y Cloudflare D1.
 
-Web publicada: https://la-esquina-cafe-javier.team-rocksta-7769.chatgpt.site/
+Web publicada: 
 
 ## Ejecutar
 
