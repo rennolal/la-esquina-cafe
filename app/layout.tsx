@@ -1,4 +1,4 @@
 import type { Metadata } from 'next';
 import './globals.css';
 export const metadata:Metadata={title:'La Esquina · Tu café de siempre',description:'Café, un desayuno rico y un ratito para ti. Descubre la carta de La Esquina, tu cafetería de barrio.'};
-export default function Layout({children}:{children:React.ReactNode}){return <html lang="es"><body>{children}</body></html>}
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="es"><head><link rel="preload" href="/fonts/playfair.woff" as="font" type="font/woff" crossOrigin="anonymous"/><link rel="preload" href="/fonts/dm-sans.woff" as="font" type="font/woff" crossOrigin="anonymous"/><link rel="preload" as="image" href="/images/fachada-1280.webp" imageSrcSet="/images/fachada-480.webp 480w, /images/fachada-800.webp 800w, /images/fachada-1280.webp 1280w" imageSizes="100vw" fetchPriority="high"/></head><body>{children}</body></html>}

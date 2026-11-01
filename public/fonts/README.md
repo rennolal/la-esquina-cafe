@@ -1,0 +1,1 @@
+Fonts derived from DM Sans and Playfair Display, distributed under the accompanying SIL OFL licenses. Local copies contain a Latin subset and are converted to WOFF. The modified Playfair font is renamed internally and in CSS to Esquina Display to respect its Reserved Font Name. Original copyright notices remain in the fonts and license files.
