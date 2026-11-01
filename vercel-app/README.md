@@ -1,6 +1,6 @@
 # La Esquina · Vercel personal
 
-Versión React + Next.js independiente de ChatGPT Sites y Team Rockstars. El proyecto Vercel se llama `la-esquina-cafe`, en `rennolal-8237`.
+Versión React + Next.js independiente de ChatGPT Sites. El proyecto Vercel se llama `la-esquina-cafe`, en `rennolal-8237`.
 
 ## Ejecución
 
