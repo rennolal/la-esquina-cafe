@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793537497539,
+      "tag": "0000_smooth_shard",
+      "breakpoints": true
+    }
+  ]
+}
